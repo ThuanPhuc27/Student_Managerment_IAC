@@ -17,7 +17,7 @@ This project automates the deployment of a containerized application on AWS ECS 
 ### Architecture
 ![Architecture](images/infrastructure.jpg)
 
-### Resoures and pipeline
+### Resources and pipeline
 ![Architecture](images/ecs_resource.jpg)
 
 ## CI/CD Pipeline
