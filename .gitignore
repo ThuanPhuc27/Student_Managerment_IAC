@@ -1,0 +1,6 @@
+terraform/seoul-dev/*.tfstate
+terraform/seoul-dev/*.backup
+terraform/seoul-dev/*.hcl
+terraform/seoul-dev/.terraform
+
+terraform/modules/bastion/keypair/id_rsa
